@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/data_for_countries/static/css/main.a1763343.css",
-    "main.js": "/github.io/data_for_countries/static/js/main.f47e9ecc.js",
-    "static/js/787.412c4327.chunk.js": "/github.io/data_for_countries/static/js/787.412c4327.chunk.js",
-    "index.html": "/github.io/data_for_countries/index.html",
-    "main.a1763343.css.map": "/github.io/data_for_countries/static/css/main.a1763343.css.map",
-    "main.f47e9ecc.js.map": "/github.io/data_for_countries/static/js/main.f47e9ecc.js.map",
-    "787.412c4327.chunk.js.map": "/github.io/data_for_countries/static/js/787.412c4327.chunk.js.map"
+    "main.css": "/data_for_countries/static/css/main.a1763343.css",
+    "main.js": "/data_for_countries/static/js/main.64677264.js",
+    "static/js/787.412c4327.chunk.js": "/data_for_countries/static/js/787.412c4327.chunk.js",
+    "index.html": "/data_for_countries/index.html",
+    "main.a1763343.css.map": "/data_for_countries/static/css/main.a1763343.css.map",
+    "main.64677264.js.map": "/data_for_countries/static/js/main.64677264.js.map",
+    "787.412c4327.chunk.js.map": "/data_for_countries/static/js/787.412c4327.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1763343.css",
-    "static/js/main.f47e9ecc.js"
+    "static/js/main.64677264.js"
   ]
 }
